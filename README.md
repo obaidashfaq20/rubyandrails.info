@@ -12,3 +12,5 @@ export $RECREATE_DB=true
 
 #### Access the shell in the app container
 `docker-compose run --rm --entrypoint sh app`
+
+test
